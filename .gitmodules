@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:0xhardman/proof-of-discord-web.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:0xhardman/proof-of-discord-backend.git
